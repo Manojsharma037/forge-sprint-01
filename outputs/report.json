@@ -1,0 +1,2427 @@
+{
+  "summary": {
+    "total_urls": 456,
+    "total_issues": 201,
+    "by_severity": {
+      "high": 12,
+      "medium": 84,
+      "low": 105
+    }
+  },
+  "issues": [
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:177)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/wordpress-development",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:21)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/portals/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:642)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:71, px:703)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:177)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 199 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:73, px:678)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-mobile-word-capital-barcelona-the-worlds-largest-and-most-influential-connectivity-event",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:126, px:1121)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/fintech/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:70, px:642)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/fintech/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:172)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/web-development",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:15)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/web-development",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Custom ERP software development services. We creat"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:13)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-enterprise-software-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:61, px:566)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-enterprise-software-development",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:202)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/artificial-intelligence/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:72, px:658)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/artificial-intelligence/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:172)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-machine-learning-solutions",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/cloud-apps/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:642)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/cloud-apps/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:159)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/fintech",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/fintech",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/android-app-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:76, px:730)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:82, px:772)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:193)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 116 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/dedicated-team-setups/",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:21)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/dedicated-team-setups/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:164)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/ios-app-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:75, px:725)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-enhanced-web-mobile-application-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:73, px:642)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-enhanced-web-mobile-application-development",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:183)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/shopify",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:19)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/sitemap",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:26)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/sitemap",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 138 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/php-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:69, px:666)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/php-development/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:156)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:29)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "missing_h1",
+      "severity": "medium",
+      "detail": "H1 missing on 200 page"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 53 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/careers/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:85, px:781)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/process/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:62, px:599)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/process/",
+      "issue_type": "missing_h1",
+      "severity": "medium",
+      "detail": "H1 missing on 200 page"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/ecommerce-development/magento-development/",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Boost Your Sales with Expert Magento Development. "
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-to-participate-in-the-largest-tech-expo-in-the-middle-east-gitex-global-2023-dubai",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:89, px:794)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/privacy-policy",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:156)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:66, px:646)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:171)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/it-consulting/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:66, px:586)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/agentic-ai",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:602)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/agentic-ai",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:231)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-participated-in-softwave-2023-the-republic-of-korea-software-exhibition",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:89, px:819)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/ecommerce-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:75, px:733)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/saas-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:74, px:703)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/saas-development/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:238)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/erp-development",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:15)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/erp-development",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Custom ERP software development services. We creat"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/internet-of-things/",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:18)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/internet-of-things/",
+      "issue_type": "non_indexable_but_linked",
+      "severity": "medium",
+      "detail": "Non-indexable but has 224 inlinks"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/blockchain",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:75, px:698)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/blockchain",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:159)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:4)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Blog Description"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-saas-development",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:184)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:62, px:570)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:172)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:159)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:75, px:728)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:157)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-devops-cloud-automation",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:180)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:64, px:563)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:170)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/crm-development",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:24)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/crm-development",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Boost Your Sales with Expert Magento Development. "
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:76, px:706)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:157)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:70, px:619)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:158)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/promise/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:73, px:657)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/promise/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:169)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "non_indexable_but_linked",
+      "severity": "medium",
+      "detail": "Non-indexable but has 112 inlinks"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/tablet-app-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:79, px:734)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/mobile-design/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:62, px:583)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/outsourcing/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:91, px:879)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/outsourcing/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:192)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: Case Studies - Successful Case Studies of Client | NMG Technologies"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:67, px:613)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: For an in-depth look at our most interesting clien"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Success Stories"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 58 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/augmented-reality/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:78, px:731)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/augmented-reality/",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:180)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/disclaimer",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:18)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/aspnet-development/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:77, px:729)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-content-editorial-calendar",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-content-editorial-calendar",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:158)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-outsourcingrules-ebook",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.186s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/python-development-guide",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:195)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/python-development-guide",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.006s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-developmental-checklist",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:664)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-appdevelopmentcost-ebook",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:76, px:742)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-appdevelopmentcost-ebook",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.185s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/mobile-development-checklist",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:159)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/mobile-development-checklist",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.05s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/web/",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Trusted By B2B Businesses"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/mobile-app-development-guide",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.429s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/wordpress-website-perfect-solution-small-business",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:69, px:642)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/top-wordpress-themes",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:67, px:646)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/mobile/",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Trusted By B2B Businesses"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/advanced-seo/",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Trusted By B2B Businesses"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/hire-web-developers-guide",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:599)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:14)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: Blog Description"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/ecommerce/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:67, px:650)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/ecommerce/",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Trusted By B2B Businesses"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/featured",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:15)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/featured",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-to-participate-in-the-largest-tech-expo-in-the-middle-east-gitex-global-2022-dubai",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:89, px:794)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-retail-innovation-conference-and-expo-2023-in-chicago",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:88, px:807)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/technology",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:17)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/technology",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-sponsor-and-exhibit-at-brighton-seo-2023-and-online-pr-show-2023",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:84, px:799)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-leap-2023-tech-conference-in-riyadh-saudi-arabia",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:84, px:778)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-leap-2023-tech-conference-in-riyadh-saudi-arabia",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:159)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:63, px:594)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:156)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/web",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:10)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/web",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/design",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:13)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/design",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:18)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 136 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/startup-india-event-2016-key-highlights",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:248)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/growth",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:13)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/growth",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:13)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 147 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/advantages-of-asp-net-core",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:68, px:623)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-made-list-top-mobile-app-development-companies-goodfirms",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:76, px:733)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-made-list-top-mobile-app-development-companies-goodfirms",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.094s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:62, px:593)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.023s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/ui-ux-mobile-app-development",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:61, px:570)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/ui-ux-mobile-app-development",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:161)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/how-to-build-an-app-like-uber",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:60, px:562)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: Case Studies - Successful Case Studies of Client | NMG Technologies"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:67, px:613)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: For an in-depth look at our most interesting clien"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Success Stories"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.076s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/atlys-case-study",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.414s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "duplicate_title",
+      "severity": "high",
+      "detail": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "title_too_long",
+      "severity": "medium",
+      "detail": "Title too long (len:65, px:640)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "duplicate_meta_description",
+      "severity": "medium",
+      "detail": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "meta_description_too_long",
+      "severity": "low",
+      "detail": "Meta too long (len:176)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.167s"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:16)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 179 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 90 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "title_too_short",
+      "severity": "low",
+      "detail": "Title too short (len:17)"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "duplicate_h1",
+      "severity": "low",
+      "detail": "Duplicate H1: Make Your Software Development Journey Easy!"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "thin_content",
+      "severity": "low",
+      "detail": "Only 115 words"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "slow_page",
+      "severity": "low",
+      "detail": "Response time: 1.24s"
+    }
+  ],
+  "fixes": [
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:177)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/wordpress-development",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:21)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/portals/",
+      "issue_type": "title_too_long",
+      "original": "Web Portal Development Services - Ecommerce Portal Apps for Business",
+      "suggested_fix": "Web Portal Development Services - Ecommerce Portal Apps f..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "title_too_long",
+      "original": "About NMG Technologies - Software, Web & Mobile App Development Company",
+      "suggested_fix": "About NMG Technologies - Software, Web & Mobile App Devel..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:177)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/about-us",
+      "issue_type": "thin_content",
+      "original": "Only 199 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/",
+      "issue_type": "title_too_long",
+      "original": "Most Resourceful Content for Businesses to Get Started | NMG Technologies",
+      "suggested_fix": "Most Resourceful Content for Businesses to Get Started | ..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-mobile-word-capital-barcelona-the-worlds-largest-and-most-influential-connectivity-event",
+      "issue_type": "title_too_long",
+      "original": "NMG Technologies to Participate in Mobile Word Capital Barcelona \u2013 the world\u2019s largest and most influential connectivity event",
+      "suggested_fix": "NMG Technologies to Participate in Mobile Word Capital Ba..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/fintech/",
+      "issue_type": "title_too_long",
+      "original": "Fintech Apps & Software Development Services - Hire Fintech Developers",
+      "suggested_fix": "Fintech Apps & Software Development Services - Hire Finte..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/fintech/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:172)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/web-development",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:15)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/web-development",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Custom ERP software development services. We creat",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:13)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-enterprise-software-development",
+      "issue_type": "title_too_long",
+      "original": "Enterprise AI Solutions | AI Software and Development Company",
+      "suggested_fix": "Enterprise AI Solutions | AI Software and Development Com..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-enterprise-software-development",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:202)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/artificial-intelligence/",
+      "issue_type": "title_too_long",
+      "original": "AI Software Development - #1 Artificial Intelligence Development Company",
+      "suggested_fix": "AI Software Development - #1 Artificial Intelligence Deve..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/artificial-intelligence/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:172)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-machine-learning-solutions",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/cloud-apps/",
+      "issue_type": "title_too_long",
+      "original": "Cloud Application Development Services - Cloud App Migration Company",
+      "suggested_fix": "Cloud Application Development Services - Cloud App Migrat..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/cloud-apps/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:159)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/fintech",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/fintech",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/android-app-development",
+      "issue_type": "title_too_long",
+      "original": "Android App Development Company - Hire Android Developers | NMG Technologies",
+      "suggested_fix": "Android App Development Company - Hire Android Developers..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "title_too_long",
+      "original": "Get Custom Pricing & Quote for Development & Marketing Services | NMG Technologies",
+      "suggested_fix": "Get Custom Pricing & Quote for Development & Marketing Se..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:193)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/get-custom-pricing",
+      "issue_type": "thin_content",
+      "original": "Only 116 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/dedicated-team-setups/",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:21)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/dedicated-team-setups/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:164)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/travel",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/ios-app-development/",
+      "issue_type": "title_too_long",
+      "original": "iPhone App Development Company - Hire iOS App Developers | NMG Technologies",
+      "suggested_fix": "iPhone App Development Company - Hire iOS App Developers ..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-enhanced-web-mobile-application-development",
+      "issue_type": "title_too_long",
+      "original": "AI App Development Services | Custom Artificial Intelligence Applications",
+      "suggested_fix": "AI App Development Services | Custom Artificial Intellige..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-enhanced-web-mobile-application-development",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:183)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/shopify",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:19)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/sitemap",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:26)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/sitemap",
+      "issue_type": "thin_content",
+      "original": "Only 138 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/php-development/",
+      "issue_type": "title_too_long",
+      "original": "PHP Development Services - Hire PHP Web Developers | NMG Technologies",
+      "suggested_fix": "PHP Development Services - Hire PHP Web Developers | NMG ..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/php-development/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:156)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:29)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "missing_h1",
+      "original": "H1 missing on 200 page",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/contact-us",
+      "issue_type": "thin_content",
+      "original": "Only 53 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/careers/",
+      "issue_type": "title_too_long",
+      "original": "Careers - Job Opportunity for Web, Mobile, and Software Developers | NMG Technologies",
+      "suggested_fix": "Careers - Job Opportunity for Web, Mobile, and Software D..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/process/",
+      "issue_type": "title_too_long",
+      "original": "Our Successful Design & Development Process | NMG Technologies",
+      "suggested_fix": "Our Successful Design & Development Process | NMG Technol..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/process/",
+      "issue_type": "missing_h1",
+      "original": "H1 missing on 200 page",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/ecommerce-development/magento-development/",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Boost Your Sales with Expert Magento Development. ",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-to-participate-in-the-largest-tech-expo-in-the-middle-east-gitex-global-2023-dubai",
+      "issue_type": "title_too_long",
+      "original": "NMG to Participate in the Largest Tech Expo in the Middle East - GITEX Global 2023, Dubai",
+      "suggested_fix": "NMG to Participate in the Largest Tech Expo in the Middle..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/privacy-policy",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:156)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown",
+      "issue_type": "title_too_long",
+      "original": "How to Manage Work from home during the coronavirus lockdown | NMG",
+      "suggested_fix": "How to Manage Work from home during the coronavirus lockd..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/working-from-home-during-the-coronavirus-lockdown",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:171)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/it-consulting/",
+      "issue_type": "title_too_long",
+      "original": "IT Consulting Services - Best IT Consultant Firm For Your Business",
+      "suggested_fix": "IT Consulting Services - Best IT Consultant Firm For Your..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/marketresearch",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/agentic-ai",
+      "issue_type": "title_too_long",
+      "original": "Agentic AI Consulting Services | Expert AI Development & Integration",
+      "suggested_fix": "Agentic AI Consulting Services | Expert AI Development & ..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/agentic-ai",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:231)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-participated-in-softwave-2023-the-republic-of-korea-software-exhibition",
+      "issue_type": "title_too_long",
+      "original": "NMG Technologies Participated in Softwave 2023, The Republic of Korea Software Exhibition",
+      "suggested_fix": "NMG Technologies Participated in Softwave 2023, The Repub..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/ecommerce-development/",
+      "issue_type": "title_too_long",
+      "original": "Ecommerce Web Development Company  | Hire World's Best E-commerce Developer",
+      "suggested_fix": "Ecommerce Web Development Company  | Hire World's Best E-..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/saas-development/",
+      "issue_type": "title_too_long",
+      "original": "SaaS App Development Services - Hire #1 SaaS Developers | NMG Technologies",
+      "suggested_fix": "SaaS App Development Services - Hire #1 SaaS Developers |..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/saas-development/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:238)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/erp-development",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:15)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/erp-development",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Custom ERP software development services. We creat",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/internet-of-things/",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:18)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/internet-of-things/",
+      "issue_type": "non_indexable_but_linked",
+      "original": "Non-indexable but has 224 inlinks",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/healthcare",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/blockchain",
+      "issue_type": "title_too_long",
+      "original": "Blockchain Software & App Development Services - Hire Blockchain Developers",
+      "suggested_fix": "Blockchain Software & App Development Services - Hire Blo..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/blockchain",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:159)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:4)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Blog Description",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-saas-development",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:184)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
+      "issue_type": "title_too_long",
+      "original": "AI-Powered Ecommerce | Advanced AI Solutions for Online Retail",
+      "suggested_fix": "AI-Powered Ecommerce | Advanced AI Solutions for Online R..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-optimized-ecommerce-solutions",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:172)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-business-transformation-consulting",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:159)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/",
+      "issue_type": "title_too_long",
+      "original": "Best Custom Software Development Service Company - 2019 | NMG Technologies.",
+      "suggested_fix": "Best Custom Software Development Service Company - 2019 |..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:157)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-driven-devops-cloud-automation",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:180)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/staffing",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
+      "issue_type": "title_too_long",
+      "original": "AI Powered Service | Innovative AI-Driven Solutions for Business",
+      "suggested_fix": "AI Powered Service | Innovative AI-Driven Solutions for B..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/ai-powered-business-process-transformation",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:170)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/crm-development",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:24)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/crm-development",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Boost Your Sales with Expert Magento Development. ",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development",
+      "issue_type": "title_too_long",
+      "original": "#1 Mobile App Development Services - Hire  App Developers | NMG Technologies",
+      "suggested_fix": "#1 Mobile App Development Services - Hire  App Developers..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:157)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/",
+      "issue_type": "title_too_long",
+      "original": "User Interface (UI) Design Services - Hire Experienced UI/UX Designers",
+      "suggested_fix": "User Interface (UI) Design Services - Hire Experienced UI..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:158)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/promise/",
+      "issue_type": "title_too_long",
+      "original": "Our Promise: Understand, Build & Measure Client Efficient Solutions | NMG",
+      "suggested_fix": "Our Promise: Understand, Build & Measure Client Efficient..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/promise/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:169)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/industry/edtech",
+      "issue_type": "non_indexable_but_linked",
+      "original": "Non-indexable but has 112 inlinks",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/mobile-application-development/tablet-app-development/",
+      "issue_type": "title_too_long",
+      "original": "Tablet App Development Services - Hire Tablet App Developers | NMG Technologies",
+      "suggested_fix": "Tablet App Development Services - Hire Tablet App Develop..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/user-interface-design/mobile-design/",
+      "issue_type": "title_too_long",
+      "original": "Mobile App Design Services - Hire Mobile App Designers Company",
+      "suggested_fix": "Mobile App Design Services - Hire Mobile App Designers Co..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/outsourcing/",
+      "issue_type": "title_too_long",
+      "original": "Outsourcing Company - Best Outsource Software & Web Development Services | NMG Technologies",
+      "suggested_fix": "Outsourcing Company - Best Outsource Software & Web Devel..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/company/outsourcing/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:192)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: Case Studies - Successful Case Studies of Client | NMG Technologies",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "title_too_long",
+      "original": "Case Studies - Successful Case Studies of Client | NMG Technologies",
+      "suggested_fix": "Case Studies - Successful Case Studies of Client | NMG Te..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: For an in-depth look at our most interesting clien",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Success Stories",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories",
+      "issue_type": "thin_content",
+      "original": "Only 58 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/augmented-reality/",
+      "issue_type": "title_too_long",
+      "original": "Augmented Reality Apps Development Services - IT Staff Augmentation Developers",
+      "suggested_fix": "Augmented Reality Apps Development Services - IT Staff Au..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/solution/augmented-reality/",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:180)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/disclaimer",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:18)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/services/custom-software-development/aspnet-development/",
+      "issue_type": "title_too_long",
+      "original": "Asp.Net Development Services - Hire Asp.Net Web Developers | NMG Technologies",
+      "suggested_fix": "Asp.Net Development Services - Hire Asp.Net Web Developer..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-content-editorial-calendar",
+      "issue_type": "title_too_long",
+      "original": "Download Free Content Editorial Calendar Template | NMG Technologies",
+      "suggested_fix": "Download Free Content Editorial Calendar Template | NMG T..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-content-editorial-calendar",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:158)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-outsourcingrules-ebook",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.186s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/python-development-guide",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:195)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/python-development-guide",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.006s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-developmental-checklist",
+      "issue_type": "title_too_long",
+      "original": "Download Web Development Checklist [Updated 2019] | NMG Technologies",
+      "suggested_fix": "Download Web Development Checklist [Updated 2019] | NMG T..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-appdevelopmentcost-ebook",
+      "issue_type": "title_too_long",
+      "original": "Download App Development Cost Ebook for 2019 with Example | NMG Technologies",
+      "suggested_fix": "Download App Development Cost Ebook for 2019 with Example..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/download-appdevelopmentcost-ebook",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.185s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/mobile-development-checklist",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:159)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/mobile-development-checklist",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.05s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/web/",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Trusted By B2B Businesses",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/mobile-app-development-guide",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.429s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/wordpress-website-perfect-solution-small-business",
+      "issue_type": "title_too_long",
+      "original": "Why WordPress Website Is The Perfect Solution For Your Small Business",
+      "suggested_fix": "Why WordPress Website Is The Perfect Solution For Your Sm..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/top-wordpress-themes",
+      "issue_type": "title_too_long",
+      "original": "Top 15 WordPress Theme for Your Business in 2019 | NMG Technologies",
+      "suggested_fix": "Top 15 WordPress Theme for Your Business in 2019 | NMG Te..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/mobile/",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Trusted By B2B Businesses",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/advanced-seo/",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Trusted By B2B Businesses",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/resources/library/hire-web-developers-guide",
+      "issue_type": "title_too_long",
+      "original": "The Ultimate Guide to Hire Web Developers in 2023 [Updated] | NMG",
+      "suggested_fix": "The Ultimate Guide to Hire Web Developers in 2023 [Update..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:14)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: Blog Description",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/author/nishtha",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/ecommerce/",
+      "issue_type": "title_too_long",
+      "original": "Ecommerce Website Design & Development Portfolio | NMG Technologies",
+      "suggested_fix": "Ecommerce Website Design & Development Portfolio | NMG Te..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/work/ecommerce/",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Trusted By B2B Businesses",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/featured",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:15)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/featured",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-to-participate-in-the-largest-tech-expo-in-the-middle-east-gitex-global-2022-dubai",
+      "issue_type": "title_too_long",
+      "original": "NMG to Participate in the Largest Tech Expo in the Middle East - GITEX Global 2022, Dubai",
+      "suggested_fix": "NMG to Participate in the Largest Tech Expo in the Middle..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-retail-innovation-conference-and-expo-2023-in-chicago",
+      "issue_type": "title_too_long",
+      "original": "NMG Technologies to Participate in Retail Innovation Conference and Expo 2023 in Chicago",
+      "suggested_fix": "NMG Technologies to Participate in Retail Innovation Conf..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/technology",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:17)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/technology",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-sponsor-and-exhibit-at-brighton-seo-2023-and-online-pr-show-2023",
+      "issue_type": "title_too_long",
+      "original": "NMG Technologies to Sponsor and Exhibit at Brighton SEO 2023 and Online PR Show 2023",
+      "suggested_fix": "NMG Technologies to Sponsor and Exhibit at Brighton SEO 2..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-leap-2023-tech-conference-in-riyadh-saudi-arabia",
+      "issue_type": "title_too_long",
+      "original": "NMG Technologies to Participate in LEAP 2023 Tech Conference in Riyadh, Saudi Arabia",
+      "suggested_fix": "NMG Technologies to Participate in LEAP 2023 Tech Confere..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-to-participate-in-leap-2023-tech-conference-in-riyadh-saudi-arabia",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:159)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
+      "issue_type": "title_too_long",
+      "original": "15 Best Things About Web Design & User Experience in 2019 | NMG",
+      "suggested_fix": "15 Best Things About Web Design & User Experience in 2019..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/sempo-hangouts-session-user-experience",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:156)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/web",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:10)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/web",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/design",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:13)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/design",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:18)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/outsourcing",
+      "issue_type": "thin_content",
+      "original": "Only 136 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/startup-india-event-2016-key-highlights",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:248)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/growth",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:13)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/growth",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:13)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/mobile",
+      "issue_type": "thin_content",
+      "original": "Only 147 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/advantages-of-asp-net-core",
+      "issue_type": "title_too_long",
+      "original": ".NET Core: 20 Advantages of Building Your Software in ASP.NET Core |",
+      "suggested_fix": ".NET Core: 20 Advantages of Building Your Software in ASP..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-made-list-top-mobile-app-development-companies-goodfirms",
+      "issue_type": "title_too_long",
+      "original": "NMG Made It on the List of Top Mobile App Development Companies at GoodFirms",
+      "suggested_fix": "NMG Made It on the List of Top Mobile App Development Com..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/nmg-technologies-made-list-top-mobile-app-development-companies-goodfirms",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.094s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
+      "issue_type": "title_too_long",
+      "original": "Best Practices of Offshore Software Development Company (2022)",
+      "suggested_fix": "Best Practices of Offshore Software Development Company (..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/best-practices-offshore-software-development",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.023s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/competiscan",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/ui-ux-mobile-app-development",
+      "issue_type": "title_too_long",
+      "original": "Importance of UI & UX in mobile app development in 2022 | NMG",
+      "suggested_fix": "Importance of UI & UX in mobile app development in 2022 |..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/ui-ux-mobile-app-development",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:161)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/how-to-build-an-app-like-uber",
+      "issue_type": "title_too_long",
+      "original": "How To Build an App like Uber - Mobile App Development | NMG",
+      "suggested_fix": "How To Build an App like Uber - Mobile App Development | NMG"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: Case Studies - Successful Case Studies of Client | NMG Technologies",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "title_too_long",
+      "original": "Case Studies - Successful Case Studies of Client | NMG Technologies",
+      "suggested_fix": "Case Studies - Successful Case Studies of Client | NMG Te..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: For an in-depth look at our most interesting clien",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Success Stories",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/clients/case-studies/",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.076s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/atlys-case-study",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.414s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/compound-banc",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/international-insurance",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "duplicate_title",
+      "original": "Duplicate title: IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "title_too_long",
+      "original": "IT Outsource Software, Web & Mobile App Development Company - NMG",
+      "suggested_fix": "IT Outsource Software, Web & Mobile App Development Compa..."
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "duplicate_meta_description",
+      "original": "Duplicate meta: NMG Technologies is a leading IT outsourcing compa",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "meta_description_too_long",
+      "original": "Meta too long (len:176)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/success-stories/wealth-concert",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.167s",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:16)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/marketing",
+      "issue_type": "thin_content",
+      "original": "Only 179 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/search-engine-optimization",
+      "issue_type": "thin_content",
+      "original": "Only 90 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "title_too_short",
+      "original": "Title too short (len:17)",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "duplicate_h1",
+      "original": "Duplicate H1: Make Your Software Development Journey Easy!",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "thin_content",
+      "original": "Only 115 words",
+      "suggested_fix": "Manual review required"
+    },
+    {
+      "url": "https://nmgtechnologies.com/blog/tag/events/page/2",
+      "issue_type": "slow_page",
+      "original": "Response time: 1.24s",
+      "suggested_fix": "Manual review required"
+    }
+  ]
+}
