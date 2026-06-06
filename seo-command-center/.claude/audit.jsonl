@@ -1,0 +1,3 @@
+{"event":"session_start","status":"ok"}
+{"event":"tool_use","tool":"claude_code","status":"ok"}
+{"event":"session_end","status":"ok"}
