@@ -5,7 +5,9 @@ def ingest(file_path):
     mapping = {
         'url':               ['Address', 'URL', 'Page URL'],
         'title':             ['Title 1', 'Page Title', 'Title'],
+        'title_length':      ['Title 1 Length', 'Title Length'],
         'meta_desc':         ['Meta Description 1', 'Meta Description', 'Description'],
+        'meta_desc_length':  ['Meta Description 1 Length', 'Meta Description Length'],
         'h1':                ['H1-1', 'H1', 'Main Heading'],
         'status_code':       ['Status Code', 'HTTP Status'],
         'word_count':        ['Word Count', 'Words'],
@@ -45,7 +47,8 @@ def ingest(file_path):
 
     df = df[list(mapping.keys())]
 
-    numeric_cols = ['status_code', 'word_count', 'inlinks', 'response_time', 'title_pixel_width']
+    numeric_cols = ['status_code', 'word_count', 'inlinks', 'response_time',
+                    'title_pixel_width', 'title_length', 'meta_desc_length']
     for col in numeric_cols:
         df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
 

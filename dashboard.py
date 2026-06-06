@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 HTML = """
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>SEO Command Center</title>
     <meta http-equiv="refresh" content="5">
@@ -30,7 +30,8 @@ HTML = """
         .badge-high { background: #ff444433; color: #ff4444; }
         .badge-medium { background: #ffaa0033; color: #ffaa00; }
         .badge-low { background: #44aaff33; color: #44aaff; }
-        .url { color: #888; font-size: 11px; max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .url { color: #888; font-size: 11px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        .fix-text { color: #00ff88; font-style: italic; }
     </style>
 </head>
 <body>
@@ -47,15 +48,15 @@ HTML = """
             <p>Total Issues</p>
         </div>
         <div class="card">
-            <h2 class="high">{{ data.summary.by_severity.get('high', 0) }}</h2>
+            <h2 class="high">{{ data.summary.get('high', 0) }}</h2>
             <p>High</p>
         </div>
         <div class="card">
-            <h2 class="medium">{{ data.summary.by_severity.get('medium', 0) }}</h2>
+            <h2 class="medium">{{ data.summary.get('medium', 0) }}</h2>
             <p>Medium</p>
         </div>
         <div class="card">
-            <h2 class="low">{{ data.summary.by_severity.get('low', 0) }}</h2>
+            <h2 class="low">{{ data.summary.get('low', 0) }}</h2>
             <p>Low</p>
         </div>
     </div>
@@ -67,6 +68,7 @@ HTML = """
                 <th>Issue Type</th>
                 <th>Severity</th>
                 <th>Detail</th>
+                <th>Suggested Fix</th>
             </tr>
         </thead>
         <tbody>
@@ -74,8 +76,9 @@ HTML = """
             <tr>
                 <td class="url" title="{{ issue.url }}">{{ issue.url }}</td>
                 <td>{{ issue.issue_type }}</td>
-                <td><span class="badge badge-{{ issue.severity }}">{{ issue.severity.upper() }}</span></td>
+                <td><span class="badge badge-{{ issue.severity.lower() }}">{{ issue.severity.upper() }}</span></td>
                 <td>{{ issue.detail }}</td>
+                <td class="fix-text">{{ issue.suggested_fix }}</td>
             </tr>
             {% endfor %}
         </tbody>
@@ -91,7 +94,17 @@ def load_report():
     path = os.path.join(os.path.dirname(__file__), 'outputs', 'report.json')
     if os.path.exists(path):
         with open(path, 'r') as f:
-            return json.load(f)
+            data = json.load(f)
+            # Backend Integration: Merge suggested fixes into the issue objects
+            fixes = data.get('fixes', [])
+            # Create a map for O(1) lookup: (url, issue_type) -> suggestion
+            fix_map = {(f['url'], f['issue_type']): f['suggested_fix'] for f in fixes}
+
+            for issue in data.get('issues', []):
+                key = (issue['url'], issue['issue_type'])
+                issue['suggested_fix'] = fix_map.get(key, "Manual review required")
+
+            return data
     return None
 
 @app.route('/')
